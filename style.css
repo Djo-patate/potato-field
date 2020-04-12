@@ -1,1 +1,42 @@
+/* Commentaire */
+/* 
+  Balise
+  # : id
+  . : class
 
+  -h1, em : Tous les titres et tous les textes important
+  -* : selecteur universelle
+  -h3 em : toutes les balises <em> situées à l'intérieur d'une balise <h3>
+  -h3 + p
+  -a[title] : 
+  -a[title="Cliquez ici"]
+  -a[title*="ici"]
+*/
+
+body{
+}
+
+header{
+  background-color: lightblue;
+  width: 100%;
+  height: 200px;
+}
+
+nav{
+  background-color: lightred;
+  width: 100%;
+  height: 200px;
+}
+
+section{
+  background-color: lightgreen;
+  width: 100%;
+  height: 200px;
+}
+
+
+footer{
+  background-color: lightorange;
+  width: 100%;
+  height: 200px;
+}
