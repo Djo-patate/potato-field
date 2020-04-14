@@ -20,6 +20,16 @@
   margin: 0px;
 }
 
+#conteneur
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu{
+  
+}
+
 body{
 }
 
