@@ -33,13 +33,13 @@
 body{
 }
 
-header{
+#header{
   background-color: lightblue;
   width: 100%;
   height: 150px;
 }
 
-nav{
+#nav{
   background-color: lightred;
   width: 100%;
   height: 50px;
@@ -47,14 +47,14 @@ nav{
   display: flex;
 }
 
-section{
+#section{
   background-color: lightgreen;
   width: 100%;
   height: 200px;
 }
 
 
-footer{
+#footer{
   background-color: lightorange;
   width: 100%;
   height: 200px;
