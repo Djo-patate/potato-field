@@ -33,6 +33,11 @@
 body{
 }
 
+#main-display{
+  background-color: blue;
+  width: 100%;
+}
+
 #header{
   background-color: lightblue;
   width: 100%;
