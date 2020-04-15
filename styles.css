@@ -15,12 +15,12 @@
 *{
 }
 
-#layout{
+.layout{
   padding: 0px;
   margin: 0px;
 }
 
-#conteneur
+.conteneur
 {
     display: flex;
     justify-content: space-around;
